@@ -85,7 +85,7 @@ HashTable::~HashTable() {
 }
 
 int main() {
-	int A[] = {16, 12, 25, 39, 6, 122, 5, 68, 75};
+	int A[] = {1005, 12, 25, 39, 6, 122, 5, 68, 75};
 	int n = sizeof(A)/sizeof(A[0]);
 	HashTable H;
 	for (int i=0; i<n; i++){
