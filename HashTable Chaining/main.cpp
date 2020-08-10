@@ -100,5 +100,5 @@ int main() {
 	value = H.Search(key);
 	cout << "Key: " << key << ", Value: " << value << endl;
 
-	return 0;
+	return;
 }
